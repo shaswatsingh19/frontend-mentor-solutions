@@ -2,6 +2,17 @@
 const projectData = [
 
     {
+        image       : "images/project/p6.jpg",
+        title       : "Order summary component",
+        skills      : ['HTML','CSS'],
+        description : "A perfect project for newbies who are starting to build confidence with layouts!",
+        live        : "https://ss-order-summary-component.vercel.app/",
+        repo        : "https://github.com/shaswatsingh19/Order-Summary-Component",
+        tryOut      :"https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj"
+    
+    },
+
+    {
         image       : "images/project/p5.jpg",
         title       : "NFT Preview Card Component",
         skills      : ['HTML','CSS'],
