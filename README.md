@@ -3,6 +3,10 @@
 This is the collection of all my Frontend Mentor challenge solutions. You can find links to their repositories, live demos and direct links to challenges on Frontend Mentor so you can try them out yourself. 
 
 
+### Order summary component
+
+<a href="https://ss-order-summary-component.vercel.app/">Live</a> | <a href="https://github.com/shaswatsingh19/Order-Summary-Component">Repo</a> | <a href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj">Try Out</a>
+
 ### NFT Preview Card Component
 
 <a href="http://ss-nft-preview-card.vercel.app/">Live</a> | <a href="https://github.com/shaswatsingh19/nft-preview-card-component">Repo</a> | <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U">Try Out</a>
