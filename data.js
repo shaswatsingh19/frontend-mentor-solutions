@@ -6,9 +6,9 @@ const projectData = [
         title       : "3 Column Preview Card Component",
         skills      : ['HTML','CSS'],
         description : "This is a great small challenge to help get you used to building to a design. There's no JS in this project, so you'll be able to focus on your HTML & CSS skills.",
-        live        : "https://ss-stats-preview-card.vercel.app/",
-        repo        : "https://github.com/shaswatsingh19/Stats-preview-card-component",
-        tryOut      :"https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62"
+        live        : "https://ss-3-column-preview-card-component.vercel.app/",
+        repo        : "https://github.com/shaswatsingh19/3-column-preview-card-component",
+        tryOut      : "https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-"
     
     },
     {
