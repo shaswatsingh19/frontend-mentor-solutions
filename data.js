@@ -1,5 +1,16 @@
 
 const projectData = [
+     
+    {
+        image       : "images/project/p8.jpg",
+        title       : "3 Column Preview Card Component",
+        skills      : ['HTML','CSS'],
+        description : "This is a great small challenge to help get you used to building to a design. There's no JS in this project, so you'll be able to focus on your HTML & CSS skills.",
+        live        : "https://ss-stats-preview-card.vercel.app/",
+        repo        : "https://github.com/shaswatsingh19/Stats-preview-card-component",
+        tryOut      :"https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62"
+    
+    },
     {
         image       : "images/project/p7.jpg",
         title       : "Stats preview card component",
@@ -26,10 +37,10 @@ const projectData = [
         image       : "images/project/p5.jpg",
         title       : "NFT Preview Card Component",
         skills      : ['HTML','CSS'],
-        description : "This HTML & CSS only challenge is perfect for anyone just starting out or anyone wanting a small project to play around with.",
-        live        : "http://ss-nft-preview-card.vercel.app/",
-        repo        : "https://github.com/shaswatsingh19/nft-preview-card-component",
-        tryOut      :"https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U"
+        description : "This challenge is perfect if you're just getting started. The shift between the layouts will be a nice test if you're new to building responsive projects.",
+        live        : "https://ss-3-column-preview-card-component.vercel.app/",
+        repo        : "https://github.com/shaswatsingh19/3-column-preview-card-component",
+        tryOut      :"https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-"
     },
 
     {
