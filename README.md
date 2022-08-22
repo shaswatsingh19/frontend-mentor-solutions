@@ -2,6 +2,10 @@
 
 This is the collection of all my Frontend Mentor challenge solutions. You can find links to their repositories, live demos and direct links to challenges on Frontend Mentor so you can try them out yourself. 
 
+### 3 Column Preview Card Component
+
+<a href="https://ss-3-column-preview-card-component.vercel.app/">Live</a> | <a href="https://github.com/shaswatsingh19/3-column-preview-card-component">Repo</a> | <a href="https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-">Try Out</a>
+
 ### Stats preview card component
 
 <a href="https://ss-stats-preview-card.vercel.app/">Live</a> | <a href="https://github.com/shaswatsingh19/Stats-preview-card-component">Repo</a> | <a href="https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62">Try Out</a>
