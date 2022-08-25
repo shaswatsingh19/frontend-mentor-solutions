@@ -1,6 +1,16 @@
 
 const projectData = [
      
+     {
+        image       : "images/project/p9.jpg",
+        title       : "Profile card component",
+        skills      : ['HTML','CSS'],
+        description : "This is a perfect challenge to test your layout skills. The card layout doesn't shift, so it's also great for those that haven't dived into responsive websites yet!",
+        live        : "https://ss-profile-card-component.vercel.app/",
+        repo        : "https://github.com/shaswatsingh19/Profile-card-component",
+        tryOut      : "https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ"
+    
+    },
     {
         image       : "images/project/p8.jpg",
         title       : "3 Column Preview Card Component",
