@@ -2,7 +2,7 @@
 const projectData = [
      
      {
-        image       : "images/project/p10.jpg",
+        image       : "images/project/p10.jpeg",
         title       : "Rest Countries API with theme switcher",
         skills      : ['HTML','CSS','JS','API'],
         description : "If you're wanting to test your JavaScript skills this is the challenge for you. Use whichever JS framework you prefer and pull data from the REST Countries API.",
