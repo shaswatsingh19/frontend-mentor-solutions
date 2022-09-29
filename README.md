@@ -2,6 +2,11 @@
 
 This is the collection of all my Frontend Mentor challenge solutions. You can find links to their repositories, live demos and direct links to challenges on Frontend Mentor so you can try them out yourself. 
 
+
+### Rest Countries API with Theme switcher
+
+<a href="https://ss-rest-countries.vercel.app/">Live</a> | <a href="https://github.com/shaswatsingh19/REST-Countries-API-with-color-theme-switcher">Repo</a> | <a href="https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca">Try Out</a>
+
 ### Profile card component
 
 <a href="https://ss-profile-card-component.vercel.app/">Live</a> | <a href="https://github.com/shaswatsingh19/Profile-card-component">Repo</a> | <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ">Try Out</a>
