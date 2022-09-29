@@ -2,6 +2,16 @@
 const projectData = [
      
      {
+        image       : "images/project/p10.jpg",
+        title       : "Rest Countries API with theme switcher",
+        skills      : ['HTML','CSS','JS','API'],
+        description : "If you're wanting to test your JavaScript skills this is the challenge for you. Use whichever JS framework you prefer and pull data from the REST Countries API.",
+        live        : "https://ss-rest-countries.vercel.app/",
+        repo        : "https://github.com/shaswatsingh19/REST-Countries-API-with-color-theme-switcher",
+        tryOut      : "https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca"
+    
+    },
+     {
         image       : "images/project/p9.jpg",
         title       : "Profile card component",
         skills      : ['HTML','CSS'],
